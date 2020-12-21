@@ -3,10 +3,8 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Abbyy.Activities": "[1.4.1-preview]",
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
-    "UiPath.OCR.Activities": "[2.4.1]",
     "UiPath.OmniPage.Activities": "[1.7.0]",
     "UiPath.PDF.Activities": "[3.3.0]",
     "UiPath.System.Activities": "[20.10.1]",
