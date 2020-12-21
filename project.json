@@ -6,6 +6,7 @@
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
     "UiPath.OmniPage.Activities": "[1.7.0]",
+    "UiPath.OmniPage.Bundle.Extended": "[1.0.2]",
     "UiPath.PDF.Activities": "[3.3.0]",
     "UiPath.System.Activities": "[20.10.1]",
     "UiPath.UIAutomation.Activities": "[20.10.6]"
