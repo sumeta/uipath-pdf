@@ -145,10 +145,7 @@
           </ActivityAction.Argument>
           <Sequence DisplayName="For Each" sap:VirtualizedContainerService.HintSize="850,2220" sap2010:WorkflowViewState.IdRef="Sequence_18">
             <Sequence.Variables>
-              <Variable x:TypeArguments="x:Boolean" Default="False" Name="Add_Data_Row" />
               <Variable x:TypeArguments="s:String[]" Name="ColumnArr" />
-              <Variable x:TypeArguments="x:Boolean" Name="SecondRow" />
-              <Variable x:TypeArguments="x:Boolean" Name="FirstRow" />
             </Sequence.Variables>
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
